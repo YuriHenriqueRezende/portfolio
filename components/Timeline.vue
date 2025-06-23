@@ -13,6 +13,7 @@ function closeImage() {
 </script>
 
 <template>
+  <h2>Linha do tempo</h2>
   <div class="timeline-wrapper">
     <div class="timeline-line"></div>
     <div
